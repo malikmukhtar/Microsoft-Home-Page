@@ -245,6 +245,14 @@ margin-bottom: 5px;
 .footer div i {
     margin-right: 10px;
 }
+footer .fa-heart {
+    color: purple;
+}
+
+footer div.footer-inner-second {
+    text-align: center;
+    justify-content: center;
+}
 
 @media(max-width: 700px) {
     .menu-btn {
